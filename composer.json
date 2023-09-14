@@ -1,5 +1,5 @@
 {
-    "name": "2k11cs12/my-simple-package",
+    "name": "2k11cs12/installable-package",
     "description": "A simple example package",
     "type": "library",
     "license": "MIT",
